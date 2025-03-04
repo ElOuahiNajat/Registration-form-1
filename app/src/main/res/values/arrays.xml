@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="training_options">
+        <item>Sélectionner une formation</item>
+        <item>Développement Android</item>
+        <item>Design UI/UX</item>
+        <item>Marketing Digital</item>
+    </string-array>
+</resources>
